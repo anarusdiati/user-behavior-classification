@@ -20,6 +20,50 @@ Early prediction of user intent enables better UX personalization and decision-m
 
 Online Shoppers Purchasing Intention Dataset ([UCI](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) / [Kaggle](https://www.kaggle.com/datasets/henrysue/online-shoppers-intention))
 
+**Dataset Characteristics**
+- Type: Multivariate dataset
+- Subject Area: Business/E-commerce
+- Associated Tasks: Classification, Clustering
+
+**Data Quality**</br>
+No missing values, clean dataset
+
+**Feature Set**</br>
+Total Features: 18 attributes (17 features + 1 target)
+
+**Numerical Features (10)**
+- Administrative: Count of administrative pages visited
+- Administrative_Duration: Time spent on administrative pages
+- Informational: Count of informational pages visited
+- Informational_Duration: Time spent on informational pages
+- ProductRelated: Count of product-related pages visited
+- ProductRelated_Duration: Time spent on product-related pages
+- BounceRates: ercentage of visitors who enter and leave without interaction
+- ExitRates: Percentage of pageviews that were the last in the session
+- PageValues: Average value for web pages before completing e-commerce transaction
+- SpecialDay: Closeness to special days
+
+**Categorical Features (8)**
+- Operating System: Visitor's operating system
+- Browser: Web browser used
+- Region: Geographical region of visitor
+- Traffic Type: Traffic source type
+- Visitor Type: New or returning visitor
+- Weekend: Weekend visit indicator
+- Month: Month of session occurrence
+
+**Target Variable**
+Revenue (session outcome indicator)
+- True: Session ended with shopping transaction
+- False: Session did not end with shopping transaction
+
+**Class Distribution**
+- Total Sessions: 12,330
+- Negative Class (No Purchase): 10,422 sessions (84.5%)
+- Positive Class (Purchase): 1,908 sessions (15.5%)
+- Class Imbalance Ratio: 5.46:1 (Imbalanced dataset)
+
+
 <h2>Methodology</h2>
 
 - Logistic Regression (as baseline)
