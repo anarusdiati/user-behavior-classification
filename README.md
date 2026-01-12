@@ -18,50 +18,50 @@ Early prediction of user intent enables better UX personalization and decision-m
 
 <h2>Dataset</h2>
 
-Online Shoppers Purchasing Intention Dataset ([UCI](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) / [Kaggle](https://www.kaggle.com/datasets/henrysue/online-shoppers-intention))
+Online Shoppers Purchasing Intention Dataset ( [UCI](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) / [Kaggle](https://www.kaggle.com/datasets/henrysue/online-shoppers-intention) )
 
 **Dataset Characteristics**
-- Type: Multivariate dataset
-- Subject Area: Business/E-commerce
-- Associated Tasks: Classification, Clustering
+- Type: multivariate dataset
+- Subject area: business/e-commerce
+- Associatedtasks: classification, clustering
 
 **Data Quality**</br>
 No missing values, clean dataset
 
 **Feature Set**</br>
-Total Features: 18 attributes (17 features + 1 target)
+Total features: 18 attributes (17 features + 1 target)
 
 **Numerical Features (10)**
-- Administrative: Count of administrative pages visited
-- Administrative_Duration: Time spent on administrative pages
-- Informational: Count of informational pages visited
-- Informational_Duration: Time spent on informational pages
-- ProductRelated: Count of product-related pages visited
-- ProductRelated_Duration: Time spent on product-related pages
-- BounceRates: ercentage of visitors who enter and leave without interaction
-- ExitRates: Percentage of pageviews that were the last in the session
-- PageValues: Average value for web pages before completing e-commerce transaction
-- SpecialDay: Closeness to special days
+- Administrative: count of administrative pages visited
+- Administrative_Duration: time spent on administrative pages
+- Informational: count of informational pages visited
+- Informational_Duration: time spent on informational pages
+- ProductRelated: count of product-related pages visited
+- ProductRelated_Duration: time spent on product-related pages
+- BounceRates: percentage of visitors who enter and leave without interaction
+- ExitRates: percentage of pageviews that were the last in the session
+- PageValues: average value for web pages before completing e-commerce transaction
+- SpecialDay: closeness to special days
 
 **Categorical Features (8)**
-- Operating System: Visitor's operating system
-- Browser: Web browser used
-- Region: Geographical region of visitor
-- Traffic Type: Traffic source type
-- Visitor Type: New or returning visitor
-- Weekend: Weekend visit indicator
-- Month: Month of session occurrence
+- Operating System: visitor's operating system
+- Browser: web browser used
+- Region: geographical region of visitor
+- Traffic Type: traffic source type
+- Visitor Type: new or returning visitor
+- Weekend: weekend visit indicator
+- Month: month of session occurrence
 
 **Target Variable**
 Revenue (session outcome indicator)
-- True: Session ended with shopping transaction
-- False: Session did not end with shopping transaction
+- True: session ended with shopping transaction
+- False: session did not end with shopping transaction
 
 **Class Distribution**
-- Total Sessions: 12,330
-- Negative Class (No Purchase): 10,422 sessions (84.5%)
-- Positive Class (Purchase): 1,908 sessions (15.5%)
-- Class Imbalance Ratio: 5.46:1 (Imbalanced dataset)
+- Total sessions: 12,330
+- Negative class (no purchase): 10,422 sessions (84.5%)
+- Positive class (purchase): 1,908 sessions (15.5%)
+- Class imbalance ratio: 5.46:1 (imbalanced dataset)
 
 
 <h2>Methodology</h2>
