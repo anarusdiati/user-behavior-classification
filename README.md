@@ -84,6 +84,7 @@ Revenue (session outcome indicator)
 - XGBoost
 - SHAP
 - Google Colab
+- Kaggle
 
 <h2>Key Insights</h2>
 
