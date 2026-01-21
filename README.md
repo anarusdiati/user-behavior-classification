@@ -6,8 +6,6 @@ This project focuses on predicting user purchase intent based on behavioral sign
 <h2>Problem Statement</h2>
 Understanding user intent early allows digital products to improve user experience without relying on intrusive personal data.
 
-
-
 <h2>ML Task</h2>
 
 - Supervised Learning
@@ -58,7 +56,7 @@ Revenue (session outcome indicator)
 - False: session did not end with shopping transaction
 
 **Class Distribution**
-- Total sessions: 12,330
+- Total sessions: 12,330 sessions
 - Negative class (no purchase): 10,422 sessions (84.5%)
 - Positive class (purchase): 1,908 sessions (15.5%)
 - Class imbalance ratio: 5.46:1 (imbalanced dataset)
