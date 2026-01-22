@@ -92,3 +92,5 @@ Revenue (session outcome indicator)
 <h2>Medium</h2>
 
 Read this project article on my [Medium](https://medium.com/@anarusdiati)
+
+Let's connect!
