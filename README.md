@@ -87,7 +87,14 @@ Revenue (session outcome indicator)
 
 <h2>Key Insights</h2>
 
+- ProductRelated_Duration = primary conversion driver
+- Returning visitors have a higher probability of purchasing
+- Temporal factors (Month, Weekend) have a significant influence
+- Engagement > demographic signals
+
 <h2>Limitations & Future Works</h2>
+
+This project looks at the session level, which limits long-term behavioral understanding. It also lacks contextual signals like pricing, promotions, or user history. Additionally, I treated user actions as static aggregates instead of sequences. Future work could look into sequential models, cost-sensitive optimization, or uplift modeling to improve decision-making under uncertainty.
 
 <h2>Medium</h2>
 
