@@ -88,10 +88,10 @@ These insights highlight opportunities for personalization, remarketing, and tim
 
 - Python
 - Pandas, NumPy
+- Matplotlib & Seaborn
 - Scikit-learn
 - XGBoost
 - SHAP
-- Matplotlib & Seaborn
 
 <h2>Limitations and Future Work</h2>
 
