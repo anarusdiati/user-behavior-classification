@@ -108,8 +108,8 @@ This project emphasizes thinking before modeling, and understanding before optim
 
 <h2>Medium</h2>
 
-Read this project article on my [Medium](https://medium.com/@anarusdiati/predicting-purchase-intention-from-online-user-behavior-56caa07e9e44)
-
-[Kaggle Notebook](https://www.kaggle.com/code/anarusdiati/user-behavior-classification)
+Read this project article on:
+- [Medium](https://medium.com/@anarusdiati/predicting-purchase-intention-from-online-user-behavior-56caa07e9e44)
+- [Kaggle Notebook](https://www.kaggle.com/code/anarusdiati/user-behavior-classification)
 
 Let's connect
